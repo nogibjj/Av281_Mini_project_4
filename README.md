@@ -1,4 +1,6 @@
 # Mini Project 2 for IDS706 fall 2023
+[![CI/CD](https://github.com/nogibjj/Av281_Mini_project_4/actions/workflows/python.yml/badge.svg)](https://github.com/nogibjj/Av281_Mini_project_4/actions/workflows/python.yml)
+[![CI/CD](https://github.com/nogibjj/Av281_Mini_project_4/actions/workflows/python.yml/badge.svg)](https://github.com/nogibjj/Av281_Mini_project_4/actions/workflows/python.yml)
 Python template to be used for GitHub codespaces
 contains:
 
