@@ -34,20 +34,23 @@ Python template with matrix testing on python versions 3.8, 3.9, 3.10, and 3.11 
 ## Workflow
 
 ## Matrix Testing Strategy:
-<p align = "center"><img width="1000" alt="Screenshot 2023-09-11 at 11 55 09 AM" src="https://github.com/nogibjj/Av281_Mini_project_2/blob/main/Images_for_mini_project_2/Screenshot%202023-09-13%20at%204.42.48%20PM.png"></p>
+<p align = "center"><img width="1000" alt="Screenshot 2023-09-11 at 11 55 09 AM" src="https://github.com/nogibjj/Av281_Mini_project_4/blob/main/Images_for_mini_project_4/Matrix.png"></p>
 
-### Testing
-<p align = "center"><img width="1000" alt="Screenshot 2023-09-11 at 11 53 56 AM" src="https://github.com/nogibjj/Av281_Mini_project_2/blob/main/Images_for_mini_project_2/Screenshot%202023-09-13%20at%204.46.20%20PM.png"></p>
-
-### Formatting
-<p align = "center"><img width="407" alt="Screenshot 2023-09-11 at 11 53 56 AM" src="https://github.com/nogibjj/Av281_Mini_project_2/blob/main/Images_for_mini_project_2/Screenshot%202023-09-13%20at%204.46.45%20PM.png"></p>
+### Install Dependencies
+  - pip install everything in the requirements.txt file
 
 ### Linting
-<p align = "center"><img width="417" alt="Screenshot 2023-09-11 at 11 55 09 AM" src="https://github.com/nogibjj/Av281_Mini_project_2/blob/main/Images_for_mini_project_2/Screenshot%202023-09-13%20at%204.47.07%20PM.png"></p>
+<p align = "center"><img width="417" alt="Screenshot 2023-09-11 at 11 55 09 AM" src="https://github.com/nogibjj/Av281_Mini_project_4/blob/main/Images_for_mini_project_4/lint.png"></p>    
 
-### Descriptive Stats
-<p align = "center"><img width="417" alt="Screenshot 2023-09-11 at 11 55 09 AM" src="https://github.com/nogibjj/Av281_Mini_project_2/blob/main/Images_for_mini_project_2/Screenshot%202023-09-13%20at%204.47.33%20PM.png"></p>
+### Testing
+<p align = "center"><img width="1000" alt="Screenshot 2023-09-11 at 11 53 56 AM" src="https://github.com/nogibjj/Av281_Mini_project_4/blob/main/Images_for_mini_project_4/test.png"></p>
+
+### Formatting
+<p align = "center"><img width="407" alt="Screenshot 2023-09-11 at 11 53 56 AM" src="https://github.com/nogibjj/Av281_Mini_project_4/blob/main/Images_for_mini_project_4/format.png"></p>
+
+### Run Main Script
+<p align = "center"><img width="417" alt="Screenshot 2023-09-11 at 11 55 09 AM" src="https://github.com/nogibjj/Av281_Mini_project_4/blob/main/Images_for_mini_project_4/Run.png"></p>
 
 ### Data Visualization
-<p align = "center"><img width="1000" alt="Screenshot 2023-09-11 at 11 55 09 AM" src="https://github.com/nogibjj/Av281_Mini_project_2/blob/main/Images_for_mini_project_2/Screenshot%202023-09-17%20at%206.07.41%20PM.png"></p>
+<p align = "center"><img width="1000" alt="Screenshot 2023-09-11 at 11 55 09 AM" src="https://github.com/nogibjj/Av281_Mini_project_4/blob/main/Images_for_mini_project_4/datavis.png"></p>
 
